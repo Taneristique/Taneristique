@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Taneristique
-- 👀 I’m interested in blockchain development and python.
+- 👀 I’m interested in blockchain development,c,c++ language and python.
 - 🌱 I’m currently learning solidity,react,web3js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
