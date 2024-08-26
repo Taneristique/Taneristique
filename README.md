@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Taneristique
-- 👀 I’m interested in blockchain development,c,c++ language and python.
-- 🌱 I’m currently learning solidity,react,web3js.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web3 security, solidity, go, rust and assembly
+- 🌱 I’m currently learning all the subjects mentioned above plus electronics,quantum physics and math  
 
 <!---
 Taneristique/Taneristique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
